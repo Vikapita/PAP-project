@@ -13,6 +13,7 @@ Sheen Shipiki
 
 Ester Haradoes
 
+Ngajozikue Kamarama
  
 Roles for the Project 
 
@@ -22,7 +23,7 @@ Roles for the Project
 
 3.Mekere: Supplier Lead + Partial Reports
 
-4.Laina: Asset Lead + Partial Reports
+4.Ngajozikue: Asset Lead + Partial Reports
 
 5.Sheen: Main Menu & Input Validation Lead
 
