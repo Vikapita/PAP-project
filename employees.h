@@ -17,5 +17,6 @@ void addEmployee(Employee employees[], int *numEmployees);
 void displayEmployees(Employee employees[], int employeeCount);
 void searchEmployee(Employee employees[], int employeeCount, int employeeID);
 float calculateSalary(Employee employee);
+void employeeMenu(Employee employees[], int *numEmployees);
 
 #endif

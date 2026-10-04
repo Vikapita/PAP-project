@@ -1,10 +1,19 @@
 #ifndef MENU_H
 #define MENU_H
 
-// Displays the main title and menu options for MFMS
+#include "employees.h"
+#include "suppliers.h"
+#include "assets.h"
+
 void displayMainMenu(void);
 
-// Main navigation loop controlling system selection and flow
-void runMenuSystem(void);
+void runMenuSystem(
+    Employee employees[],
+    int *numEmployees,
+    Supplier suppliers[],
+    int *numSuppliers,
+    Asset assets[],
+    int *numAssets
+);
 
 #endif
